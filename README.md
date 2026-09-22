@@ -1,6 +1,6 @@
 # Hi, I'm Olof
 
-Alongside my day job, I'm building tools for working with AI agents and apps for Bluesky. I also make surreal films and animations with AI.
+I'm an indie hacker building tools for working with AI agents and apps for Bluesky. I also make surreal films and animations with AI.
 
 A few things I've been working on:
 
