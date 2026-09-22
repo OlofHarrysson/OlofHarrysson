@@ -1,5 +1,3 @@
 # Hi, I'm Olof
 
-I'm an indie hacker from Sweden, now living in Berlin. I left my job in AI to give building my own products a go.
-
-Away from the computer, I like cycling, exploring Berlin, and a good walk in the forest.
+I'm a Swede in Berlin who quit a job in AI to try indie hacking. Coding was the familiar bit. Finding people who want what I've made is the part I'm still figuring out.
